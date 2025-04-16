@@ -6,7 +6,7 @@
 dev_tests
 *.env
 */bin
-*nvclip_multimodal_search
+*_venv
 
 
 # Byte-compiled / optimized / DLL files
