@@ -9,3 +9,4 @@ datasets
 pymilvus
 matplotlib
 notebook
+dotenv
