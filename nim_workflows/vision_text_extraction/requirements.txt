@@ -6,3 +6,4 @@ gradio
 openai
 tqdm
 notebook
+dotenv

@@ -16,13 +16,14 @@ The Jupyter notebook workshop walks through how to build this demo for a traffic
 
 ### Clone repository
 ```
-git clone https://github.com/NVIDIA/metropolis-nim-workflows
-cd metropolis-nim-workflows/nim_workflows/nvclip_multimodal_search
+git clone https://github.com/LukeHeffAI/metropolis-providencecv.git
 ```
 
 ### Make and activate virtual environment (Optional)
 
-It is recommended to setup a virtual environment to install the Python dependencies. For more resources on creating a virtual environment refer to the [Python documentation](https://docs.python.org/3/tutorial/venv.html). 
+It is recommended to setup a virtual environment to install the Python dependencies. For more resources on creating a virtual environment refer to the [Python documentation](https://docs.python.org/3/tutorial/venv.html).
+
+***The following bash scripts are the original, but have now been included as steps within the set up of each notebook.***
 
 ```
 python3 -m venv venv 
